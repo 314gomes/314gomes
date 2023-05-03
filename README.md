@@ -1,6 +1,6 @@
 - 👋 Hi, I’m João Pedro Gomes
 - 👀 I’m interested in just about anything interesting (nerdy) 
-- 🌱 I’m currently studying Electrical Engineering at EESC USP
+- 🌱 I’m currently studying Computer Engineering at EESC USP
 - 📫 How to reach me 
   - joao3.14gomes@gmail.com
 
